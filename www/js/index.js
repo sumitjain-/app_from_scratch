@@ -21,6 +21,10 @@ var app = {
     initialize: function() {
         this.bindEvents();
     },
+    
+    alertCallback: function(){
+    
+    },
     // Bind Event Listeners
     //
     // Bind any events that are required on startup. Common events are:
@@ -40,7 +44,7 @@ var app = {
         var parentElement = document.getElementById(id);
         var listeningElement = parentElement.querySelector('.listening');
         var receivedElement = parentElement.querySelector('.received');
-
+        navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
 
