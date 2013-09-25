@@ -26,6 +26,8 @@
     <icon src="icon.png" />
     <plugin name="Notification" value="CDVNotification" />
     <feature id="blackberry.ui.dialog" />
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
     <icon gap:density="ldpi" gap:platform="android" src="res/icon/android/icon-36-ldpi.png" />
     <icon gap:density="mdpi" gap:platform="android" src="res/icon/android/icon-48-mdpi.png" />
     <icon gap:density="hdpi" gap:platform="android" src="res/icon/android/icon-72-hdpi.png" />

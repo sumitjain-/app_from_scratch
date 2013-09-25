@@ -16,6 +16,9 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+var first = 0 ;
+var last = 0 ;
+
 var app = {
     // Application Constructor
     initialize: function() {
@@ -42,12 +45,10 @@ var app = {
     // Update DOM on a Received Event
     receivedEvent: function(id) {
         var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
         navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
+        feed_init();
         console.log('Received Event: ' + id);
     }
 };
+
+
