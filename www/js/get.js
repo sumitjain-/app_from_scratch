@@ -1,8 +1,10 @@
 function feed_init(){
-    $.getJSON(SERVER_URL+"public_lib/get_init",function(data){
-        alert("called");
-        no_of_notif = data.length;
+    navigator.notification.alert("called", app.alertCallback);
     
+    $.getJSON(SERVER_URL+"public_lib/get_init",function(data){
+        
+        no_of_notif = data.length;
+        
         $('#notif_display').html('');
         
         for(i=0; i < no_of_notif ; i++){
