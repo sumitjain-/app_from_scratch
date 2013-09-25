@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.novussofware.dnntimes" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>HelloWorld</name>
+    <name>DNN Times</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        The official DNN Times app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="sumeetsuniljain@gmail.com" href="http://novus-software.com">
+        Novus Software, India
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
@@ -27,6 +27,8 @@
     <plugin name="NetworkStatus" value="CDVConnection" />
     <plugin name="Notification" value="CDVNotification" />
     <feature id="blackberry.ui.dialog" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="UIWebViewBounce" value="false" />
     <gap:platform name="ios" />
     <!--<gap:platform name="android" />-->
     <icon gap:density="ldpi" gap:platform="android" src="res/icon/android/icon-36-ldpi.png" />
