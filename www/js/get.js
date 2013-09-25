@@ -1,5 +1,6 @@
 function feed_init(){
     $.getJSON(SERVER_URL+"public_lib/get_init",function(data){
+        navigator.notification.alert("called");
         no_of_notif = data.length;
         console.log
         $('#notif_display').html('');
