@@ -51,4 +51,4 @@ var app = {
     }
 };
 
-feed_init();
+
