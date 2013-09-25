@@ -4,7 +4,7 @@ function feed_init(){
     $.getJSON(SERVER_URL+"public_lib/get_init",function(data){
         
         no_of_notif = data.length;
-        
+        navigator.notification.alert(data);
         $('#notif_display').html('');
         
         for(i=0; i < no_of_notif ; i++){
