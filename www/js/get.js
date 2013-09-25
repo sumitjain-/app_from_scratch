@@ -20,4 +20,8 @@ function feed_init(){
         $('#footer ul').listview('refresh');
         
     });
+    
+    $.jsonp(SERVER_URL+"public_lib/get_init", function(){
+        
+    });
 }

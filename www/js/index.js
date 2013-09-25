@@ -35,6 +35,22 @@ var app = {
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
     },
+    
+    checkConnection: function(){
+        var networkState = navigator.connection.type;
+
+            var states = {};
+            states[Connection.UNKNOWN]  = 'Unknown connection';
+            states[Connection.ETHERNET] = 'Ethernet connection';
+            states[Connection.WIFI]     = 'WiFi connection';
+            states[Connection.CELL_2G]  = 'Cell 2G connection';
+            states[Connection.CELL_3G]  = 'Cell 3G connection';
+            states[Connection.CELL_4G]  = 'Cell 4G connection';
+            states[Connection.CELL]     = 'Cell generic connection';
+            states[Connection.NONE]     = 'No network connection';
+
+            alert('Connection type: ' + states[networkState]);
+    },
     // deviceready Event Handler
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
@@ -47,7 +63,8 @@ var app = {
         var parentElement = document.getElementById(id);
         navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
 //        alert("generic alert working");
-        feed_init();
+        app.checkConnection();
+        
         console.log('Received Event: ' + id);
     }
 };
