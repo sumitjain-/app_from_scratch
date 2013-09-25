@@ -46,9 +46,9 @@ var app = {
     receivedEvent: function(id) {
         var parentElement = document.getElementById(id);
         navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
-        feed_init();
+        
         console.log('Received Event: ' + id);
     }
 };
 
-
+feed_init();
