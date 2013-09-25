@@ -1,5 +1,5 @@
 function feed_init(){
-    navigator.notification.alert("called", app.alertCallback);
+    navigator.notification.alert("Server url: "+SERVER_URL, app.alertCallback);
     
     $.getJSON(SERVER_URL+"public_lib/get_init",function(data){
         
