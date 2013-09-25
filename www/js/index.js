@@ -47,6 +47,7 @@ var app = {
         var parentElement = document.getElementById(id);
         navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
 //        alert("generic alert working");
+        feed_init()
         console.log('Received Event: ' + id);
     }
 };
