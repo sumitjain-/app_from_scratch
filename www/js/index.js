@@ -16,9 +16,6 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-var first = 0 ;
-var last = 0 ;
-
 var app = {
     // Application Constructor
     initialize: function() {
@@ -64,9 +61,9 @@ var app = {
         navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
 //        alert("generic alert working");
         app.checkConnection();
-        feed_init();
+        
         console.log('Received Event: ' + id);
     }
 };
-
+feed_init();
 
