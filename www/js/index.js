@@ -58,7 +58,7 @@ var app = {
             states[Connection.CELL]     = 'Cell generic connection';
             states[Connection.NONE]     = 'No network connection';
 
-            alert('Connection type: ' + states[networkState]);
+//            alert('Connection type: ' + states[networkState]);
     },
     // deviceready Event Handler
     //
@@ -69,8 +69,8 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
+//        var parentElement = document.getElementById(id);
+//        navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
 //        alert("generic alert working");
         feed_init();
         app.checkConnection();
@@ -80,7 +80,7 @@ var app = {
             pushNotification.register(this.successHandler, this.errorHandler,{"senderID":"51975193249","ecb":"app.onNotificationGCM"});
         }
         else {
-            pushNotification.register(this.tokenHandler,this.errorHandler,{"badge":"true","sound":"false","alert":"true","ecb":"app.onNotificationAPN"});
+            pushNotification.register(app.tokenHandler,app.errorHandler,{"badge":"true","sound":"false","alert":"true","ecb":"app.onNotificationAPN"});
 //            alert("here");
         }
         console.log('Received Event: ' + id);
