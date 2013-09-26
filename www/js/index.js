@@ -61,9 +61,9 @@ var app = {
         navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
 //        alert("generic alert working");
         app.checkConnection();
-        
+        feed_init();
         console.log('Received Event: ' + id);
     }
 };
-feed_init();
+
 

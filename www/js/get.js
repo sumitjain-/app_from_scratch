@@ -38,7 +38,7 @@ function new_feed(){
             alert("No new feeds");
         }else{
         for(i=0; i < no_of_notif ; i++){
-            $('#notif_display').prepend('<li data-theme="'+current_theme+'"><a class="" id="notif" href="#post" data-transition="slide" onclick="get_post('+data[i].post_id+')"><h4>'+ data[i].dnn_post_title +'</h4><p>'+moment(data[i].dnn_post_date, "DD-MM-YYYY").format("Do MMM YYYY")+'</p></a></li>');
+            $('#notif_display').prepend('<li data-theme="'+CURRENT_THEME+'"><a class="" id="notif" href="#post" data-transition="slide" onclick="get_post('+data[i].post_id+')"><h4>'+ data[i].dnn_post_title +'</h4><p>'+moment(data[i].dnn_post_date, "DD-MM-YYYY").format("Do MMM YYYY")+'</p></a></li>');
             }
             
             FEED_FIRST = data[0].post_id ;
@@ -96,7 +96,7 @@ function get_post(postId){
         if(data[0].dnn_post_feat_img == "" || data[0].dnn_post_feat_img == 'default.jpg'){
             $(".post_feat_img").attr("src", 'img/default.jpg');
         }else{
-            $(".post_feat_img").attr("src", config.serverUrl+'img/thumbs/'+data[0].dnn_post_feat_img);    
+            $(".post_feat_img").attr("src", SERVER_URL+'img/thumbs/'+data[0].dnn_post_feat_img);    
         }
     }).error(function(){
         $(".post_headline").html("");
