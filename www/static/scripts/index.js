@@ -73,6 +73,7 @@ var app = {
 //        navigator.notification.alert("UUID: "+device.uuid+" , Platform: "+device.platform, app.alertCallback);
 //        alert("generic alert working");
         feed_init();
+        Lungo.init({});
         app.checkConnection();
         var pushNotification = window.plugins.pushNotification;
         // TODO: Enter your own GCM Sender ID in the register call for Android
@@ -138,6 +139,3 @@ var app = {
 };
 
 feed_init();
-
-
-

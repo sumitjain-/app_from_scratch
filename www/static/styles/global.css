@@ -5,6 +5,36 @@ body {
     background-image:url(../img/fabric_of_squares_gray.png);    
 }
 
+header {
+/*    padding:10px ;*/
+    background: #00afe3 ;
+    box-shadow: 0px 0px 3px 0px #000 ;
+}
+
+h1.title {
+    min-width:100px ;
+    font-family:heading ;
+    text-shadow: 0px 1px 1px #ddd ;
+    color: #444 ;
+}
+
+.feed {
+    border-top: solid #eee 1px ;
+    padding: none ;
+}
+
+.feed_text {
+/*    border:solid red 1px ;*/
+    width: 80% ;
+}
+
+.feed-image {
+    position:absolute ;
+    top:5% ;
+    right:5% ;
+    outline: solid #ccc 1px ;
+}
+
 #header_text{
     margin:10px ;
     font-family:heading  ;
