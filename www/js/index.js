@@ -80,7 +80,7 @@ var app = {
             pushNotification.register(this.successHandler, this.errorHandler,{"senderID":"51975193249","ecb":"app.onNotificationGCM"});
         }
         else {
-            pushNotification.register(app.tokenHandler,app.errorHandler,{"badge":"true","sound":"false","alert":"true","ecb":"this.onNotificationAPN"});
+            pushNotification.register(app.tokenHandler,app.errorHandler,{"badge":"true","sound":"false","alert":"true","ecb":"app.onNotificationAPN"});
 //            alert("here");
         }
         console.log('Received Event: ' + id);
@@ -137,7 +137,7 @@ var app = {
     }
 };
 
-feed_init();
+
 
 
 

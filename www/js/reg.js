@@ -39,7 +39,7 @@ function form_validation(){
                 
                 
                 $("#reg_key").val(regID);
-                $("#reg_platform").val("iOS");
+                $("#reg_platform").val();
                 console.log(regID);
                 var form = $("#register_new"),
                     formData = form.serialize(),

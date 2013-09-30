@@ -1,5 +1,0 @@
-function toggle_theme(){
-
-    
-    
-}
