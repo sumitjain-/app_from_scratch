@@ -1,0 +1,608 @@
+TDNN Times
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Info.plist" "DNN Times/DNN Times-Info.plist"
+cPhaseScriptExecution "Copy www directory" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Script-304B58A110DAC018002A0835.sh"
+cCpResource "DNN Times/Resources/icons/icon-72.png" "build/DNN Times.app/icon-72.png"
+cCpResource "DNN Times/config.xml" "build/DNN Times.app/config.xml"
+cCpResource "DNN Times/Resources/icons/icon.png" "build/DNN Times.app/icon.png"
+cCpResource "DNN Times/Resources/icons/icon@2x.png" "build/DNN Times.app/icon@2x.png"
+cCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/es.lproj/Localizable.strings" "DNN Times/Resources/es.lproj/Localizable.strings"
+cCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/en.lproj/Localizable.strings" "DNN Times/Resources/en.lproj/Localizable.strings"
+cCompileXIB "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.xib"
+cCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/de.lproj/Localizable.strings" "DNN Times/Resources/de.lproj/Localizable.strings"
+cCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/se.lproj/Localizable.strings" "DNN Times/Resources/se.lproj/Localizable.strings"
+cCpResource "DNN Times/Resources/splash/Default-Landscape@2x~ipad.png" "build/DNN Times.app/Default-Landscape@2x~ipad.png"
+cCpResource "DNN Times/Resources/splash/Default-Landscape~ipad.png" "build/DNN Times.app/Default-Landscape~ipad.png"
+cCpResource "DNN Times/Resources/splash/Default-Portrait~ipad.png" "build/DNN Times.app/Default-Portrait~ipad.png"
+cCpResource "DNN Times/Resources/splash/Default-Portrait@2x~ipad.png" "build/DNN Times.app/Default-Portrait@2x~ipad.png"
+cCpResource "DNN Times/Resources/splash/Default@2x~iphone.png" "build/DNN Times.app/Default@2x~iphone.png"
+cCpResource "DNN Times/Resources/splash/Default~iphone.png" "build/DNN Times.app/Default~iphone.png"
+cCpResource "DNN Times/Resources/splash/Default-568h@2x~iphone.png" "build/DNN Times.app/Default-568h@2x~iphone.png"
+cCpResource "DNN Times/Resources/icons/icon-72@2x.png" "build/DNN Times.app/icon-72@2x.png"
+cProcessPCH "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.pth" "DNN Times/DNN Times-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.o" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.o" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.o" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times" normal i386
+cGenerateDSYMFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app.dSYM" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times"
+cTouch "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000051B4C2A900000000001EB540
+t1370800809
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000051B4C2A000000000000C1030
+t1370800800
+s790576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c0000000051B4C2A40000000000193640
+t1370800804
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000051B4C2A500000000000226E0
+t1370800805
+s141024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000051B4C2A600000000003D4DF0
+t1370800806
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000051B4C2AC0000000000215DB0
+t1370800812
+s2186672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051B4C2AF0000000000228FE0
+t1370800815
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051B4C2B1000000000009C590
+t1370800817
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000051B4C2B20000000000085620
+t1370800818
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051B4C2BE00000000003DDFA0
+t1370800830
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000051B4C2CA00000000002CFBE0
+t1370800842
+s2948064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c0000000051B4C2DF00000000002DBA50
+t1370800863
+s2996816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000051B4C2EB00000000000BCC20
+t1370800875
+s773152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c0000000051B4C2EB0000000000030EB0
+t1370800875
+s200368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000051B4C2EE00000000001D5750
+t1370800878
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000051B4C2F7000000000006CC50
+t1370800887
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051B4C2FD0000000000AB6230
+t1370800893
+s11231792
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/AppDelegate.m
+c000000005245AC2B00000000000013A9
+t1380297771
+s5033
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.m
+c000000005245AC2B000000000000126A
+t1380297771
+s4714
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.xib
+c000000005245AC2B0000000000001759
+t1380297771
+s5977
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/DNN Times-Prefix.pch
+c000000005245AC2B00000000000003C3
+t1380297771
+s963
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/de.lproj/Localizable.strings
+c000000005245AC2B00000000000004BF
+t1380297771
+s1215
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/en.lproj/Localizable.strings
+c000000005245AC2B00000000000004AA
+t1380297771
+s1194
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/es.lproj/Localizable.strings
+c000000005245AC2B00000000000004B7
+t1380297771
+s1207
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon-72.png
+c000000005245AC2B0000000000001350
+t1380297771
+s4944
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon-72@2x.png
+c000000005245AC2B0000000000002DBA
+t1380297771
+s11706
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon.png
+c000000005245AC2B0000000000000F3E
+t1380297771
+s3902
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon@2x.png
+c000000005245AC2B0000000000001EBD
+t1380297771
+s7869
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/se.lproj/Localizable.strings
+c000000005245AC2B00000000000004AB
+t1380297771
+s1195
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-568h@2x~iphone.png
+c000000005245AC2B00000000000085B1
+t1380297771
+s34225
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005245AC2B0000000000012DF4
+t1380297771
+s77300
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Landscape~ipad.png
+c000000005245AC2B0000000000008877
+t1380297771
+s34935
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005245AC2B0000000000012B02
+t1380297771
+s76546
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Portrait~ipad.png
+c000000005245AC2B00000000000085E6
+t1380297771
+s34278
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default@2x~iphone.png
+c000000005245AC2B0000000000007323
+t1380297771
+s29475
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default~iphone.png
+c000000005245AC2B000000000000289A
+t1380297771
+s10394
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/config.xml
+c000000005245AC2D0000000000000940
+t1380297773
+s2368
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/main.m
+c000000005245AC2B000000000000045B
+t1380297771
+s1115
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app.dSYM
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Default~iphone.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Info.plist
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/MainViewController.nib
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/PkgInfo
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/config.xml
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/icon-72.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/icon-72@2x.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/icon.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/icon@2x.png
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/DNN Times.LinkFileList
+c000000005245AC3200000000000001DA
+t1380297778
+s474
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Script-304B58A110DAC018002A0835.sh
+c000000005245AC32000000000000051A
+t1380297778
+s1306
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a
+c000000005245AC32000000000011AAB0
+t1380297778
+s1157808
+
+N/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.pth
+t2
+s0
+
+NDNN Times/DNN Times-Info.plist
+c000000005245AC2D0000000000000748
+t1380297773
+s1864
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdd9476b2e3f5b741^9c6b78b2e3f5b741^---0#1#0#--18"Check dependencies36"C84BD7B0-5171-4148-A533-7DAD169E7538-
+
+CCompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.o" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990580.389931
+e401990580.483043
+r1
+xCompileC
+xbuild/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/AppDelegate.m6d0264b4e3f5b741^1ea87bb4e3f5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Classes/AppDelegate.m0000000000000000^4028"CompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.o" "DNN Times/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-generated-files.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-own-target-headers.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-all-target-headers.hmap" -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-project-headers.hmap" -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/usr/local/lib/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/UninstalledProducts/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources/i386" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources" -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -include "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch" -MMD -MT dependencies -MF "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/AppDelegate.m" -o "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/AppDelegate.o"36"64A133CD-CA36-4E83-98CF-EC03D4722198-
+
+CCompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.o" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990580.390096
+e401990580.461927
+r1
+xCompileC
+xbuild/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.mea0464b4e3f5b741^b84076b4e3f5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Classes/MainViewController.m0000000000000000^4070"CompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.o" "DNN Times/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-generated-files.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-own-target-headers.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-all-target-headers.hmap" -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-project-headers.hmap" -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/usr/local/lib/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/UninstalledProducts/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources/i386" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources" -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -include "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch" -MMD -MT dependencies -MF "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.d" --serialize-diagnostics "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.dia" -c "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.m" -o "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/MainViewController.o"36"2FC9B03F-E520-4575-AC1E-A84DA6ED8747-
+
+CCompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.o" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990580.389916
+e401990580.427830
+r1
+xCompileC
+xbuild/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/main.me91064b4e3f5b741^06856db4e3f5b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/main.m0000000000000000^3970"CompileC "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.o" "DNN Times/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-generated-files.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-own-target-headers.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-all-target-headers.hmap" -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-project-headers.hmap" -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/usr/local/lib/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/UninstalledProducts/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources/i386" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources" -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -include "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch" -MMD -MT dependencies -MF "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.dia" -c "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/main.m" -o "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/main.o"36"107E7771-7ACA-4E1D-9005-7C61D8E2B98A-
+
+CCompileXIB "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.xib"
+s401990578.752253
+e401990580.070541
+r1
+xCompileXIB
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.xib
+o2013-09-27 21:32:59.670 Interface Builder Cocoa Touch Tool[31273:f07] CFPreferences: user home directory at file://localhost/Users/sumeetjain/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.xib1dabc0b2e3f5b741^992812b4e3f5b741^-243"2013-09-27 21:32:59.670 Interface Builder Cocoa Touch Tool[31273:f07] CFPreferences: user home directory at file://localhost/Users/sumeetjain/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Classes/MainViewController.xib0000000000000000^1198"CompileXIB "DNN Times/Classes/MainViewController.xib"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/MainViewController.nib" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Classes/MainViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"4458F7CA-2CA9-4B8C-AD90-20E5D0CBB7AC-
+
+CCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/de.lproj/Localizable.strings" "DNN Times/Resources/de.lproj/Localizable.strings"
+s401990578.752251
+e401990578.810087
+r1
+xCopyStringsFile
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/de.lproj/Localizable.strings
+xDNN Times/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy DNN Times/Resources/de.lproj/Localizable.strings00aac0b2e3f5b741^8481cfb2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Resources/de.lproj/Localizable.strings0000000000000000^841"CopyStringsFile "build/DNN Times.app/de.lproj/Localizable.strings" "DNN Times/Resources/de.lproj/Localizable.strings"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/de.lproj" -- "DNN Times/Resources/de.lproj/Localizable.strings"36"70DEA7E1-A3F7-4329-80A4-B8A9F3A7370E-
+
+CCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/en.lproj/Localizable.strings" "DNN Times/Resources/en.lproj/Localizable.strings"
+s401990578.750070
+e401990578.808948
+r1
+xCopyStringsFile
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/en.lproj/Localizable.strings
+xDNN Times/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy DNN Times/Resources/en.lproj/Localizable.strings1616c0b2e3f5b741^b515cfb2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Resources/en.lproj/Localizable.strings0000000000000000^841"CopyStringsFile "build/DNN Times.app/en.lproj/Localizable.strings" "DNN Times/Resources/en.lproj/Localizable.strings"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/en.lproj" -- "DNN Times/Resources/en.lproj/Localizable.strings"36"C99B428A-8201-4D6B-B80E-9ECC1FB33D2C-
+
+CCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/es.lproj/Localizable.strings" "DNN Times/Resources/es.lproj/Localizable.strings"
+s401990578.750056
+e401990578.809235
+r1
+xCopyStringsFile
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/es.lproj/Localizable.strings
+xDNN Times/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy DNN Times/Resources/es.lproj/Localizable.stringsa917c0b2e3f5b741^3e76cfb2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Resources/es.lproj/Localizable.strings0000000000000000^841"CopyStringsFile "build/DNN Times.app/es.lproj/Localizable.strings" "DNN Times/Resources/es.lproj/Localizable.strings"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/es.lproj" -- "DNN Times/Resources/es.lproj/Localizable.strings"36"31A20C01-07E6-4DC4-A9CD-B67BDA3461A0-
+
+CCopyStringsFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/se.lproj/Localizable.strings" "DNN Times/Resources/se.lproj/Localizable.strings"
+s401990578.811720
+e401990578.817709
+r1
+xCopyStringsFile
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/se.lproj/Localizable.strings
+xDNN Times/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy DNN Times/Resources/se.lproj/Localizable.strings9aeccfb2e3f5b741^da54d1b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/Resources/se.lproj/Localizable.strings0000000000000000^841"CopyStringsFile "build/DNN Times.app/se.lproj/Localizable.strings" "DNN Times/Resources/se.lproj/Localizable.strings"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/se.lproj" -- "DNN Times/Resources/se.lproj/Localizable.strings"36"9AE96630-4F84-40BA-80C8-1772F6904F2A-
+
+CCpResource "DNN Times/Resources/icons/icon-72.png" "build/DNN Times.app/icon-72.png"
+s401990578.746403
+e401990578.749713
+r1
+xCpResource
+xDNN Times/Resources/icons/icon-72.png
+xbuild/DNN Times.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy build/DNN Times.app/icon-72.png2f30bfb2e3f5b741^20edbfb2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/icon-72.png000000000080d041^871"CpResource "DNN Times/Resources/icons/icon-72.png" "build/DNN Times.app/icon-72.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon-72.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"AE53C541-9401-4301-A514-D7341EF1EA2D-
+
+CCpResource "DNN Times/Resources/icons/icon-72@2x.png" "build/DNN Times.app/icon-72@2x.png"
+s401990578.822684
+e401990578.825058
+r1
+xCpResource
+xDNN Times/Resources/icons/icon-72@2x.png
+xbuild/DNN Times.app/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy build/DNN Times.app/icon-72@2x.pnge5b5d2b2e3f5b741^5936d3b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/icon-72@2x.png000000000080d041^880"CpResource "DNN Times/Resources/icons/icon-72@2x.png" "build/DNN Times.app/icon-72@2x.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon-72@2x.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"28115FCF-6B8B-4673-8AA6-5D1E9B001D44-
+
+CCpResource "DNN Times/Resources/icons/icon.png" "build/DNN Times.app/icon.png"
+s401990578.746417
+e401990578.751035
+r1
+xCpResource
+xDNN Times/Resources/icons/icon.png
+xbuild/DNN Times.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Copy build/DNN Times.app/icon.png882fbfb2e3f5b741^a243c0b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/icon.png000000000080d041^862"CpResource "DNN Times/Resources/icons/icon.png" "build/DNN Times.app/icon.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"C7C05866-E6F0-40B8-8CD0-1DBF5B5EFBA9-
+
+CCpResource "DNN Times/Resources/icons/icon@2x.png" "build/DNN Times.app/icon@2x.png"
+s401990578.746580
+e401990578.751835
+r1
+xCpResource
+xDNN Times/Resources/icons/icon@2x.png
+xbuild/DNN Times.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy build/DNN Times.app/icon@2x.png2636bfb2e3f5b741^3178c0b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/icon@2x.png000000000080d041^871"CpResource "DNN Times/Resources/icons/icon@2x.png" "build/DNN Times.app/icon@2x.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/icons/icon@2x.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"2C0B7C14-FFD7-40B9-9AF5-6917D7A1B08E-
+
+CCpResource "DNN Times/Resources/splash/Default-568h@2x~iphone.png" "build/DNN Times.app/Default-568h@2x~iphone.png"
+s401990578.820602
+e401990578.823784
+r1
+xCpResource
+xDNN Times/Resources/splash/Default-568h@2x~iphone.png
+xbuild/DNN Times.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/DNN Times.app/Default-568h@2x~iphone.pngb03ad2b2e3f5b741^61e3d2b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default-568h@2x~iphone.png000000000080d041^918"CpResource "DNN Times/Resources/splash/Default-568h@2x~iphone.png" "build/DNN Times.app/Default-568h@2x~iphone.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-568h@2x~iphone.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"DDD46211-85C1-43FD-82CB-6771D58008F2-
+
+CCpResource "DNN Times/Resources/splash/Default-Landscape@2x~ipad.png" "build/DNN Times.app/Default-Landscape@2x~ipad.png"
+s401990578.812416
+e401990578.815847
+r1
+xCpResource
+xDNN Times/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/DNN Times.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/DNN Times.app/Default-Landscape@2x~ipad.png5935d0b2e3f5b741^d3dad0b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default-Landscape@2x~ipad.png000000000080d041^927"CpResource "DNN Times/Resources/splash/Default-Landscape@2x~ipad.png" "build/DNN Times.app/Default-Landscape@2x~ipad.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Landscape@2x~ipad.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"495031F9-319E-4BF0-AA60-B92B659EA9D2-
+
+CCpResource "DNN Times/Resources/splash/Default-Landscape~ipad.png" "build/DNN Times.app/Default-Landscape~ipad.png"
+s401990578.813558
+e401990578.816807
+r1
+xCpResource
+xDNN Times/Resources/splash/Default-Landscape~ipad.png
+xbuild/DNN Times.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/DNN Times.app/Default-Landscape~ipad.png1364d0b2e3f5b741^1e1bd1b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default-Landscape~ipad.png000000000080d041^918"CpResource "DNN Times/Resources/splash/Default-Landscape~ipad.png" "build/DNN Times.app/Default-Landscape~ipad.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Landscape~ipad.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"375D231C-4424-4844-A1FA-AB0DB7379A3F-
+
+CCpResource "DNN Times/Resources/splash/Default-Portrait@2x~ipad.png" "build/DNN Times.app/Default-Portrait@2x~ipad.png"
+s401990578.817080
+e401990578.820299
+r1
+xCpResource
+xDNN Times/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/DNN Times.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/DNN Times.app/Default-Portrait@2x~ipad.png6249d1b2e3f5b741^dafed1b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default-Portrait@2x~ipad.png000000000080d041^924"CpResource "DNN Times/Resources/splash/Default-Portrait@2x~ipad.png" "build/DNN Times.app/Default-Portrait@2x~ipad.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Portrait@2x~ipad.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"FA7FC619-E827-4DB2-8AEC-1CA5241A7CCF-
+
+CCpResource "DNN Times/Resources/splash/Default-Portrait~ipad.png" "build/DNN Times.app/Default-Portrait~ipad.png"
+s401990578.817043
+e401990578.819434
+r1
+xCpResource
+xDNN Times/Resources/splash/Default-Portrait~ipad.png
+xbuild/DNN Times.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/DNN Times.app/Default-Portrait~ipad.png5f46d1b2e3f5b741^4cc6d1b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default-Portrait~ipad.png000000000080d041^915"CpResource "DNN Times/Resources/splash/Default-Portrait~ipad.png" "build/DNN Times.app/Default-Portrait~ipad.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default-Portrait~ipad.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"95DDC1F1-28AD-4E65-B323-68F5217F9057-
+
+CCpResource "DNN Times/Resources/splash/Default@2x~iphone.png" "build/DNN Times.app/Default@2x~iphone.png"
+s401990578.818838
+e401990578.821466
+r1
+xCpResource
+xDNN Times/Resources/splash/Default@2x~iphone.png
+xbuild/DNN Times.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/DNN Times.app/Default@2x~iphone.png95b9d1b2e3f5b741^774bd2b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default@2x~iphone.png000000000080d041^903"CpResource "DNN Times/Resources/splash/Default@2x~iphone.png" "build/DNN Times.app/Default@2x~iphone.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default@2x~iphone.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"871B95BA-8446-45D7-BBC5-649843219215-
+
+CCpResource "DNN Times/Resources/splash/Default~iphone.png" "build/DNN Times.app/Default~iphone.png"
+s401990578.820597
+e401990578.822550
+r1
+xCpResource
+xDNN Times/Resources/splash/Default~iphone.png
+xbuild/DNN Times.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/DNN Times.app/Default~iphone.png062bd2b2e3f5b741^4f92d2b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/Default~iphone.png000000000080d041^894"CpResource "DNN Times/Resources/splash/Default~iphone.png" "build/DNN Times.app/Default~iphone.png"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/Resources/splash/Default~iphone.png" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"EC1C593D-F467-4CD4-8E19-DD0BBC3B11C8-
+
+CCpResource "DNN Times/config.xml" "build/DNN Times.app/config.xml"
+s401990578.746412
+e401990578.748857
+r1
+xCpResource
+xDNN Times/config.xml
+xbuild/DNN Times.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy build/DNN Times.app/config.xml662fbfb2e3f5b741^4ab5bfb2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app/config.xml000000000080d041^836"CpResource "DNN Times/config.xml" "build/DNN Times.app/config.xml"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/config.xml" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"F1A74038-1489-4A8E-9EA8-BE9A778FE6C7-
+
+CGenerateDSYMFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app.dSYM" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times"
+s401990582.011155
+e401990582.083109
+r1
+xGenerateDSYMFile
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app.dSYM
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app.dSYM1af702b6e3f5b741^5f4615b6e3f5b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN%20Times.app.dSYM000000000080d041^850"GenerateDSYMFile "build/DNN Times.app.dSYM" "build/DNN Times.app/DNN Times"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times" -o "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app.dSYM"36"434C74A1-3D75-47AF-9FA0-B91076E229C4-
+
+CLd "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times" normal i386
+s401990580.490012
+e401990582.003717
+r1
+xLd
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Timesda8e7db4e3f5b741^13f300b6e3f5b741^---0#0#0#--2097"Ld "build/DNN Times.app/DNN Times" normal i386    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -filelist "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/DNN Times.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework CoreLocation -framework ImageIO -framework OpenAL -framework AssetsLibrary /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -framework CoreLocation -o "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/DNN Times"36"3C3BFD04-8724-4177-B7C1-173D728EA3DE-
+
+CPhaseScriptExecution "Copy www directory" "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Script-304B58A110DAC018002A0835.sh"
+s401990578.486547
+e401990578.738062
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.234s
+ouser	0m0.090s
+osys	0m0.109s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'79217db2e3f5b741^3cf5bcb2e3f5b741^-42"real	0m0.234suser	0m0.090ssys	0m0.109s3(21%IDEActivityLogMessage2@14"real	0m0.234s-401990578#1#14#-0#-----2@14"user	0m0.090s-401990578#15#14#-0#-----2@13"sys	0m0.109s-401990578#29#13#-0#-----0#0#0#--21817"PhaseScriptExecution "Copy www directory" "build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Script-304B58A110DAC018002A0835.sh"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER sumeetjain    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv BUILD_ROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv CACHE_ROOT /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv CONFIGURATION_TEMP_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH "DNN Times.app"    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH "DNN Times.app/English.lproj/Documentation"    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/DNN Times.dst"    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME "DNN Times.app.dSYM"    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH "DNN Times.app/Executables"    setenv EXECUTABLE_FOLDER_PATH "DNN Times.app"    setenv EXECUTABLE_NAME "DNN Times"    setenv EXECUTABLE_PATH "DNN Times.app/DNN Times"    setenv FILE_LIST "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH "DNN Times.app/Frameworks"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME "DNN Times.app"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER "DNN Times/DNN Times-Prefix.pch"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include\" \"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/usr/local/lib/include\" \"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/UninstalledProducts/include\" \"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE "DNN Times/DNN Times-Info.plist"    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH "DNN Times.app/Info.plist"    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH "DNN Times.app/English.lproj/InfoPlist.strings"    setenv INSTALL_DIR "/tmp/DNN Times.dst/Applications"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER sumeetjain    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT "/tmp/DNN Times.dst"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH "DNN Times.app/Java"    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-LinkMap-normal-i386.txt"    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal/i386/DNN Times.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH "DNN Times.app/English.lproj"    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Objects-normal"    setenv OBJROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH "DNN Times.app/pbdevelopment.plist"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/PkgInfo"    setenv PKGINFO_PATH "DNN Times.app/PkgInfo"    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH "DNN Times.app/PlugIns"    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH "DNN Times.app/PrivateHeaders"    setenv PRODUCT_NAME "DNN Times"    setenv PRODUCT_SETTINGS_PATH "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/DNN Times-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT "DNN Times"    setenv PROJECT_DERIVED_FILE_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/DerivedSources"    setenv PROJECT_DIR /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PROJECT_FILE_PATH "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times.xcodeproj"    setenv PROJECT_NAME "DNN Times"    setenv PROJECT_TEMP_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build"    setenv PROJECT_TEMP_ROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv PUBLIC_HEADERS_FOLDER_PATH "DNN Times.app/Headers"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH "DNN Times.app/Scripts"    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH "DNN Times.app/SharedFrameworks"    setenv SHARED_PRECOMPS_DIR /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH "DNN Times.app/SharedSupport"    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv SRCROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME "DNN Times"    setenv TARGET_BUILD_DIR /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv TARGET_NAME "DNN Times"    setenv TARGET_TEMP_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build"    setenv TEMP_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build"    setenv TEMP_FILES_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build"    setenv TEMP_FILE_DIR "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build"    setenv TEMP_ROOT /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH "DNN Times.app"    setenv UNSTRIPPED_PRODUCT NO    setenv USER sumeetjain    setenv USER_APPS_DIR /Users/sumeetjain/Applications    setenv USER_LIBRARY_DIR /Users/sumeetjain/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH "DNN Times.app/version.plist"    setenv VERSION_INFO_BUILDER sumeetjain    setenv VERSION_INFO_FILE "DNN Times_vers.c"    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:DNN Times  PROJECT:DNN Times-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME "DNN Times.app"    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1503    setenv XCODE_VERSION_ACTUAL 0463    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c "\"/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/Script-304B58A110DAC018002A0835.sh\""36"A272E269-A81A-428C-8F63-BF8282C38D89-
+
+CProcessInfoPlistFile "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Info.plist" "DNN Times/DNN Times-Info.plist"
+s401990578.475710
+e401990578.478758
+r1
+xProcessInfoPlistFile
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Info.plist
+xDNN Times/DNN Times-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process DNN Times/DNN Times-Info.plistb5dc79b2e3f5b741^9f8f7ab2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/DNN%20Times-Info.plist0000000000000000^901"ProcessInfoPlistFile "build/DNN Times.app/Info.plist" "DNN Times/DNN Times-Info.plist"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-infoPlistUtility "DNN Times/DNN Times-Info.plist" -genpkginfo "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app/Info.plist"36"5460E87A-64B7-47EC-B93F-ED3C588364C0-
+
+CProcessPCH "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.pth" "DNN Times/DNN Times-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990580.078564
+e401990580.383067
+r1
+xProcessPCH
+x/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.pth
+xDNN Times/DNN Times-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile DNN Times/DNN Times-Prefix.pch0a4b14b4e3f5b741^061062b4e3f5b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN%20Times/DNN%20Times-Prefix.pch0000000000000000^3951"ProcessPCH "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.pth" "DNN Times/DNN Times-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-generated-files.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-own-target-headers.hmap" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-all-target-headers.hmap" -iquote "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DNN Times-project-headers.hmap" -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/usr/local/lib/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/UninstalledProducts/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources/i386" "-I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.build/Debug-iphonesimulator/DNN Times.build/DerivedSources" -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build --serialize-diagnostics "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.dia" -c "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/DNN Times/DNN Times-Prefix.pch" -o "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.pth" -MMD -MT dependencies -MF "/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DNN Times-Prefix-dergfkkzjuyfztaryjclkqtrctjp/DNN Times-Prefix.pch.d"36"17717D32-7915-492A-8CB2-3319E0BE74DB-
+
+CTouch "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"
+s401990582.091487
+e401990582.096624
+r1
+xTouch
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app848117b6e3f5b741^80bb18b6e3f5b741^---0#0#0#--620"Touch "build/DNN Times.app"    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /usr/bin/touch -c "/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/DNN Times.app"36"FE8490C8-A964-40B7-AC0E-2FD64C7465AC-
+

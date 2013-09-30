@@ -1,0 +1,1034 @@
+TCordovaLib
+v5
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h
+cCpHeader Classes/CDVWhitelist.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVURLProtocol.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVEcho.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h
+cCpHeader Classes/CDVCommandQueue.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005245AC2B0000000000000516
+t1380297771
+s1302
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005245AC2B0000000000000C65
+t1380297771
+s3173
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005245AC2B00000000000008BA
+t1380297771
+s2234
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005245AC2B0000000000000473
+t1380297771
+s1139
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005245AC2B000000000000126E
+t1380297771
+s4718
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005245AC2B0000000000000501
+t1380297771
+s1281
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005245AC2B000000000000152E
+t1380297771
+s5422
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005245AC2B00000000000004CB
+t1380297771
+s1227
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005245AC2B0000000000000E0D
+t1380297771
+s3597
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005245AC2B0000000000000401
+t1380297771
+s1025
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.h
+c000000005245AC2B0000000000000342
+t1380297771
+s834
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m
+c000000005245AC2B00000000000008DA
+t1380297771
+s2266
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005245AC2B00000000000007E6
+t1380297771
+s2022
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005245AC2B0000000000000DDE
+t1380297771
+s3550
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005245AC2B00000000000003DA
+t1380297771
+s986
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005245AC2B000000000000098E
+t1380297771
+s2446
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005245AC2B00000000000006CF
+t1380297771
+s1743
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005245AC2B0000000000004C6C
+t1380297771
+s19564
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005245AC2B0000000000000892
+t1380297771
+s2194
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005245AC2B00000000000016AE
+t1380297771
+s5806
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005245AC2B0000000000000C13
+t1380297771
+s3091
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005245AC2B0000000000001B29
+t1380297771
+s6953
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005245AC2B0000000000000408
+t1380297771
+s1032
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005245AC2B00000000000003E6
+t1380297771
+s998
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005245AC2B00000000000006B6
+t1380297771
+s1718
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005245AC2B000000000000038D
+t1380297771
+s909
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005245AC2B0000000000000AA2
+t1380297771
+s2722
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005245AC2B000000000000041C
+t1380297771
+s1052
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005245AC2B0000000000002514
+t1380297771
+s9492
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005245AC2B0000000000000421
+t1380297771
+s1057
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005245AC2B00000000000012A2
+t1380297771
+s4770
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005245AC2B0000000000000ACC
+t1380297771
+s2764
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005245AC2B0000000000008568
+t1380297771
+s34152
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005245AC2B00000000000005A2
+t1380297771
+s1442
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005245AC2B00000000000037C6
+t1380297771
+s14278
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005245AC2B00000000000004B4
+t1380297771
+s1204
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005245AC2B0000000000002216
+t1380297771
+s8726
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005245AC2B0000000000000392
+t1380297771
+s914
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005245AC2B00000000000004D8
+t1380297771
+s1240
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005245AC2B000000000000037D
+t1380297771
+s893
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005245AC2B00000000000022CC
+t1380297771
+s8908
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005245AC2B00000000000005DA
+t1380297771
+s1498
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005245AC2B0000000000001059
+t1380297771
+s4185
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005245AC2B00000000000003A0
+t1380297771
+s928
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005245AC2B0000000000000584
+t1380297771
+s1412
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005245AC2B0000000000000476
+t1380297771
+s1142
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005245AC2B0000000000000620
+t1380297771
+s1568
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005245AC2B0000000000000346
+t1380297771
+s838
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c000000005245AC300000000000000E62
+t1380297776
+s3682
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a
+t2
+s0
+
+N/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdd617bb0e3f5b741^e1b39db0e3f5b741^---0#1#0#--18"Check dependencies36"D0A76754-BA18-4482-9135-AB1474B9601A-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.979712
+e401990578.166212
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.ma4fafab1e3f5b741^f5122bb2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^4184"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"3A3ABECE-CE07-432D-855C-8FDFFC6F5366-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.825229
+e401990578.003904
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m1860d3b1e3f5b741^b30c01b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^4142"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"54802DF0-255F-4D40-9E82-8F8283F0506C-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990578.005064
+e401990578.051073
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m717401b2e3f5b741^001a0db2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^4142"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"46A3AF9A-5C2F-4083-B44D-1B51CD51C959-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.821024
+e401990578.003784
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m0456d2b1e3f5b741^5f0801b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m0000000000000000^4094"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o36"087C951E-9982-4F92-8FCB-4E3BBE63A05B-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.435598
+e401990577.468410
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m3fa86fb1e3f5b741^ffe877b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^4172"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"8A4D1DB5-0F33-4C8A-A50C-838F0DB9C9A5-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990578.005048
+e401990578.036476
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m166e01b2e3f5b741^419a09b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^4094"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"FA28A9CC-3BAF-474C-9E3B-F081EAA69620-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.390110
+e401990577.824040
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m411064b1e3f5b741^6bf4d2b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^4142"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"5408AF8E-663B-4A06-AB5A-C31B64BBDDC7-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.390042
+e401990577.819329
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m2c1164b1e3f5b741^abcfd1b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^4106"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"FAD6BEFE-8BE8-40E5-B4F7-1E12BF036ADC-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.468669
+e401990577.521289
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m8e2178b1e3f5b741^367285b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^4142"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"BDB5537D-310B-4361-AA2A-C674A6FA3F76-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990578.222003
+e401990578.280021
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m5ef138b2e3f5b741^79ae47b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^4106"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"E2BBF171-9AE4-4846-A986-5A9C7C50A6F9-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990578.168580
+e401990578.221306
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m00562bb2e3f5b741^a8a638b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^4100"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"D15294F8-1EFC-47E3-90C8-C74F8196F071-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.522618
+e401990577.819943
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.mcff585b1e3f5b741^a2f0d1b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^4136"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"EDA2DE58-56E2-4F88-9ABA-96B24EE89718-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990578.037934
+e401990578.220769
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m04e209b2e3f5b741^cb8338b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^4148"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"91050F86-82A7-40ED-A38D-EAB4CC9D404C-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.574861
+e401990578.385004
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.mc55393b1e3f5b741^088f62b2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^4154"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"ED2CC99A-D684-4857-A3AA-3054D1E54C7B-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990578.052540
+e401990578.238975
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.mf59f0db2e3f5b741^bf2c3db2e3f5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^4160"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"ED66F68D-CC7D-44C2-A7E5-7EC48106A7CA-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.501033
+e401990577.573499
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m6c5f80b1e3f5b741^12de92b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^4124"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"EC4A9DB2-C1E7-458E-A50A-06C83C5EC359-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.390238
+e401990577.434387
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.mf10e64b1e3f5b741^a73f6fb1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^4166"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"999EE2DA-F7DD-4D07-B950-5061D225C928-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.468666
+e401990577.499755
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m9f2178b1e3f5b741^150380b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^4130"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"812A8335-68EB-4EBB-BD4B-954693D1AD14-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.435586
+e401990577.467494
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m93a86fb1e3f5b741^34be77b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^4190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"9085D6D7-8355-48B9-8FD6-5BAB682D51D1-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.390033
+e401990577.434304
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.mb01d64b1e3f5b741^b43c6fb1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^4226"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"DD515385-0B3D-431B-9544-B39625EAFECB-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990577.820604
+e401990577.978489
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m5039d2b1e3f5b741^97acfab1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^4166"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG -include /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"1866415A-B1C5-48C7-9B64-29EE81AAA9F7-
+
+CCpHeader Classes/CDV.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h
+s401990576.637935
+e401990576.641310
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h6362a3b0e3f5b741^f52ca4b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h000000000080d041^897"CpHeader Classes/CDV.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDV.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDV.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"71ACE6EB-8FEE-4E2C-9071-2E205390497A-
+
+CCpHeader Classes/CDVAvailability.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.h
+s401990576.639062
+e401990576.642525
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.hb0ada3b0e3f5b741^b77ca4b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.h000000000080d041^933"CpHeader Classes/CDVAvailability.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVAvailability.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"262A87CA-CB07-40BE-BB64-142BEFCF82E2-
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+s401990576.635752
+e401990576.639077
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h41d7a2b0e3f5b741^b399a3b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h000000000080d041^942"CpHeader Classes/CDVCommandDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegate.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"E9F416A0-6E2A-42EA-B0CC-5CA52C9C2D11-
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+s401990576.645876
+e401990576.649460
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.hfd6ba5b0e3f5b741^0343a6b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h000000000080d041^954"CpHeader Classes/CDVCommandDelegateImpl.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"1774C1A9-CC17-4380-B012-ABDE29AC6006-
+
+CCpHeader Classes/CDVCommandQueue.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+s401990576.644828
+e401990576.648271
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h8123a5b0e3f5b741^38f5a5b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h000000000080d041^933"CpHeader Classes/CDVCommandQueue.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVCommandQueue.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"53A7D9EC-26BE-4109-9C95-288449CF6648-
+
+CCpHeader Classes/CDVConfigParser.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h
+s401990576.648389
+e401990576.653386
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h4d0fa6b0e3f5b741^3d44a7b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h000000000080d041^933"CpHeader Classes/CDVConfigParser.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVConfigParser.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"1E2BBD98-D2EB-4141-987F-7E557629C119-
+
+CCpHeader Classes/CDVDebug.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h
+s401990576.630317
+e401990576.634557
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h2177a1b0e3f5b741^b473a2b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h000000000080d041^912"CpHeader Classes/CDVDebug.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVDebug.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"82CF45E1-2A74-4B28-AD47-D0039F2D8609-
+
+CCpHeader Classes/CDVEcho.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h
+s401990576.643649
+e401990576.647203
+r1
+xCpHeader
+xClasses/CDVEcho.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h6edaa4b0e3f5b741^29afa5b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h000000000080d041^909"CpHeader Classes/CDVEcho.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVEcho.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVEcho.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"38AC5BA7-8BE9-4BDF-9CE7-5449A5A63957-
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+s401990576.625206
+e401990576.629037
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h9546a0b0e3f5b741^2d08a1b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h000000000080d041^948"CpHeader Classes/CDVInvokedUrlCommand.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"78EF256B-201E-4C33-81F4-FDE10376BEB0-
+
+CCpHeader Classes/CDVJSON.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h
+s401990576.650660
+e401990576.654382
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h6daaa6b0e3f5b741^b685a7b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h000000000080d041^909"CpHeader Classes/CDVJSON.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVJSON.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"24C66C45-D735-4B76-98FC-6AF412CD37FD-
+
+CCpHeader Classes/CDVLocalStorage.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+s401990576.640247
+e401990576.643691
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h77f8a3b0e3f5b741^cdc8a4b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h000000000080d041^933"CpHeader Classes/CDVLocalStorage.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVLocalStorage.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"DD5BEF20-3ECA-4A4B-9BD7-5C60B03B4394-
+
+CCpHeader Classes/CDVPlugin.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h
+s401990576.630250
+e401990576.633409
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h8673a1b0e3f5b741^3927a2b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h000000000080d041^915"CpHeader Classes/CDVPlugin.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPlugin.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"2AC757F9-3C87-4685-AA8F-369A4644DA64-
+
+CCpHeader Classes/CDVPluginResult.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h
+s401990576.625453
+e401990576.631613
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h3545a0b0e3f5b741^53b1a1b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h000000000080d041^933"CpHeader Classes/CDVPluginResult.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVPluginResult.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"B1818C2D-5CA4-4DAF-A1BF-327BAB78956D-
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+s401990576.648381
+e401990576.652439
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h0f0ea6b0e3f5b741^3e06a7b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h000000000080d041^972"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"20CF0760-064C-4632-9B40-AE3EACACEC6D-
+
+CCpHeader Classes/CDVShared.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h
+s401990576.647121
+e401990576.651494
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h90bea5b0e3f5b741^2db1a6b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h000000000080d041^915"CpHeader Classes/CDVShared.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVShared.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"513859E2-68B7-4683-B7D1-74D471873C00-
+
+CCpHeader Classes/CDVTimer.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.h
+s401990576.654521
+e401990576.657951
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.hc39da7b0e3f5b741^8f72a8b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.h000000000080d041^912"CpHeader Classes/CDVTimer.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVTimer.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"5D33DA72-417B-49E1-8E4C-93DE34C7F8CF-
+
+CCpHeader Classes/CDVURLProtocol.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+s401990576.634515
+e401990576.637917
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.hba85a2b0e3f5b741^774ea3b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.h000000000080d041^930"CpHeader Classes/CDVURLProtocol.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVURLProtocol.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"936F74C5-251A-45F2-BE36-867F4832F3CD-
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+s401990576.652619
+e401990576.655483
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h7428a7b0e3f5b741^9acda7b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h000000000080d041^936"CpHeader Classes/CDVUserAgentUtil.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"34556A5A-D944-407F-9440-9D838CC74588-
+
+CCpHeader Classes/CDVViewController.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h
+s401990576.635744
+e401990576.640161
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h0ed7a2b0e3f5b741^cae1a3b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h000000000080d041^939"CpHeader Classes/CDVViewController.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVViewController.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"7E6A404F-F283-4E43-AA2A-9AB0689D3301-
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+s401990576.652611
+e401990576.656645
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h5228a7b0e3f5b741^481aa8b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h000000000080d041^942"CpHeader Classes/CDVWebViewDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"27DFCE02-518B-490E-9A9D-7BA525993E47-
+
+CCpHeader Classes/CDVWhitelist.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.h
+s401990576.632829
+e401990576.635632
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.hdf18a2b0e3f5b741^d8b8a2b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.h000000000080d041^924"CpHeader Classes/CDVWhitelist.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/CDVWhitelist.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"40BADB78-91CB-48C8-A2FA-ACA7657D1900-
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+s401990576.642440
+e401990576.645993
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.hb98ba4b0e3f5b741^cc5fa5b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.h000000000080d041^945"CpHeader Classes/NSArray+Comparisons.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSArray+Comparisons.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"77211C45-8F71-4185-B22F-3C37F9BB580F-
+
+CCpHeader Classes/NSData+Base64.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h
+s401990576.625222
+e401990576.629906
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h4948a0b0e3f5b741^7441a1b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h000000000080d041^927"CpHeader Classes/NSData+Base64.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSData+Base64.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"AF667C0C-7716-4837-BB2B-370CF485425C-
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+s401990576.625210
+e401990576.632262
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.hb343a0b0e3f5b741^a9dba1b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h0000003eeb031042^957"CpHeader Classes/NSDictionary+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"16F1C83E-F0A5-4557-BB1A-272151D5A868-
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+s401990576.632851
+e401990576.636803
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h2219a2b0e3f5b741^2105a3b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h000000000080d041^975"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"B929765E-4149-4277-B974-5857A0516F57-
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+s401990576.641279
+e401990576.644760
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.hd93ea4b0e3f5b741^410fa5b0e3f5b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.h000000000080d041^945"CpHeader Classes/UIDevice+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova/UIDevice+Extensions.h    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include/Cordova36"29FC61D7-6D1F-4CE0-9693-A01DE2154FDF-
+
+CLibtool /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a normal i386
+s401990578.391975
+e401990578.444029
+r1
+xLibtool
+x/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Libtool /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a normal i386ac6f64b2e3f5b741^9fab71b2e3f5b741^---0#0#0#--1237"Libtool /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a normal i386    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -filelist /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/libCordova.a36"C1AD5300-BE9D-4A15-BDFE-A399A9DCE6F4-
+
+CProcessPCH /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401990576.666199
+e401990577.383100
+r1
+xProcessPCH
+x/var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.pth
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pchf3aeaab0e3f5b741^731262b1e3f5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^4010"ProcessPCH /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/subversion/bin:/opt/X11/bin:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/platform-tools:/Users/sumeetjain/Desktop/adt-bundle-mac-x86_64-20130717/sdk/tools:/Users/sumeetjain/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/build -DDEBUG --serialize-diagnostics /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.dia -c /Users/sumeetjain/Desktop/iosapp/app_from_scratch/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/qn/9hhc0ftd0_z3_8f2w2dkh40c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-bqjhhqcxuxzhsbciejeosjhlwjvf/CordovaLib_Prefix.pch.d36"BD789D83-136E-4914-A4E4-07BB2C61CDC4-
+
